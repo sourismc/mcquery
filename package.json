@@ -13,9 +13,12 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "gamedig": "^3.0.0",
+    "glob": "^7.1.6",
     "helmet": "^4.4.1",
     "minecraft-server-util": "^3.4.3",
+    "mongodb": "^3.6.5",
     "morgan": "^1.10.0",
-    "nodejs-minecraftquery": "^0.1.5"
+    "nodejs-minecraftquery": "^0.1.5",
+    "socket.io": "^4.0.0"
   }
 }
