@@ -1,5 +1,5 @@
 const MongoClient = require('mongodb')
-const mongouri = 'mongodb://nukkit:nukkit@aytos.souris.cloud:33277/?authSource=nukkit'
+const mongouri = 'mongodb://nukkit:nukkit@localhost:33277/?authSource=nukkit'
 
 module.exports = {
   name: 'players',
